@@ -263,6 +263,8 @@ const DOMController = (function (){
 
     btnStart.addEventListener('click', () => {
         dialog.showModal();
+        name1.value = "";
+        name2.value = "";
         btnSubmit.addEventListener('click', () => {
             if(name1.value === "" || name2.value === ""){
                 return;
