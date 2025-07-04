@@ -1,1 +1,1 @@
-# Tic-Tac-Toe
+This is the second project of Javascript curriculum through The Odin Project, a Tic Tac Toe, where the knowledge of IFFE's and Factory Functions are used.
